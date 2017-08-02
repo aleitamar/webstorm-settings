@@ -1,0 +1,10 @@
+<application>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="25f7857f-a6b3-4d18-a9d6-8d76e6789f9b" baseUri="http://vl-tlv-scm-03.isr.bmc.com:7990/" />
+    </instances>
+    <lookup>
+      <record scheme="http" hostname="vl-tlv-scm-03.isr.bmc.com" port="7990" path="/" uuid="25f7857f-a6b3-4d18-a9d6-8d76e6789f9b" />
+    </lookup>
+  </component>
+</application>
