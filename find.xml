@@ -6,22 +6,11 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*t</mask>
-      <mask>*te</mask>
-      <mask>*tes</mask>
-      <mask>*test&amp;</mask>
-      <mask>*test</mask>
-      <mask>*test*</mask>
-      <mask>*test*.</mask>
-      <mask>*test*.t</mask>
-      <mask>*test*\.ts</mask>
       <mask>*test*.ts</mask>
       <mask>*test?.ts</mask>
       <mask>*test..ts</mask>
       <mask>*test).ts</mask>
       <mask>*tests?.ts</mask>
-      <mask>*test.ts</mask>
-      <mask>*tests.ts</mask>
       <mask>a</mask>
       <mask>al</mask>
       <mask>all0</mask>
@@ -36,6 +25,17 @@
       <mask>all-protos.t</mask>
       <mask>all-protos.ts</mask>
       <mask>all-protos.d.ts</mask>
+      <mask>*</mask>
+      <mask>*te</mask>
+      <mask>*test&amp;</mask>
+      <mask>*test*ts</mask>
+      <mask>*test*t</mask>
+      <mask>*test*</mask>
+      <mask>*test</mask>
+      <mask>*test.</mask>
+      <mask>*test.t</mask>
+      <mask>*test.ts</mask>
+      <mask>*tests.ts</mask>
     </recentFileMasks>
   </component>
 </application>
