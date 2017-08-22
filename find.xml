@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '[WebClient] - ...\src\languages\en-US\GeneralStrings.json'" />
+    <option name="defaultScopeName" value="File '[WebClient] - ...\src\languages\en-US\GeneralStrings.json'" />
+    <option name="SEARCH_SCOPE" value="File '[WebClient] - ...\src\languages\en-US\GeneralStrings.json'" />
     <recentFileMasks>
       <mask>*test*.ts</mask>
       <mask>*test?.ts</mask>
