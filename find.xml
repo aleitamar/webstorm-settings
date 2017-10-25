@@ -5,16 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Editor.ts" />
     <recentFileMasks>
-      <mask>*test*.ts</mask>
-      <mask>*test?.ts</mask>
-      <mask>*test..ts</mask>
-      <mask>*test).ts</mask>
-      <mask>*tests?.ts</mask>
-      <mask>a</mask>
-      <mask>al</mask>
-      <mask>all0</mask>
-      <mask>all</mask>
       <mask>all-</mask>
       <mask>all-p</mask>
       <mask>all-pr</mask>
@@ -36,6 +28,15 @@
       <mask>*test.t</mask>
       <mask>*test.ts</mask>
       <mask>*tests.ts</mask>
+      <mask>*.ts</mask>
+      <mask>*e.ts</mask>
+      <mask>*ed.ts</mask>
+      <mask>*edi.ts</mask>
+      <mask>*edit.ts</mask>
+      <mask>*edito.ts</mask>
+      <mask>*editor.ts</mask>
+      <mask>*ditor.ts</mask>
+      <mask>*Editor.ts</mask>
     </recentFileMasks>
   </component>
 </application>
