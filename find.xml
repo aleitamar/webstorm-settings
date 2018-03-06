@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\package.json [angular2Demmo]'" />
-    <option name="defaultScopeName" value="File '...\package.json [angular2Demmo]'" />
-    <option name="SEARCH_SCOPE" value="File '...\package.json [angular2Demmo]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>all-</mask>
       <mask>all-p</mask>
