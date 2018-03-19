@@ -1,6 +1,7 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="IndentAndSave">
+    <macro name="smartSave">
+      <action id="OptimizeImports" />
       <action id="$SelectAll" />
       <action id="AutoIndentLines" />
       <action id="EditorDown" />

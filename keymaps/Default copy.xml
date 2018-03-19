@@ -1,5 +1,5 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="Macro.IndentAndSave">
+  <action id="Macro.smartSave">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="SaveAll" />
