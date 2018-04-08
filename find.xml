@@ -1,39 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>all-</mask>
-      <mask>all-p</mask>
-      <mask>all-pr</mask>
-      <mask>all-pro</mask>
-      <mask>all-proto</mask>
-      <mask>all-protos</mask>
-      <mask>all-protos.</mask>
-      <mask>all-protos.t</mask>
-      <mask>all-protos.ts</mask>
-      <mask>all-protos.d.ts</mask>
-      <mask>*</mask>
-      <mask>*te</mask>
-      <mask>*test&amp;</mask>
-      <mask>*test*ts</mask>
-      <mask>*test*t</mask>
-      <mask>*test*</mask>
-      <mask>*test</mask>
-      <mask>*test.</mask>
-      <mask>*test.t</mask>
-      <mask>*test.ts</mask>
-      <mask>*tests.ts</mask>
-      <mask>*.ts</mask>
-      <mask>*e.ts</mask>
-      <mask>*ed.ts</mask>
-      <mask>*edi.ts</mask>
-      <mask>*edit.ts</mask>
-      <mask>*edito.ts</mask>
-      <mask>*editor.ts</mask>
-      <mask>*ditor.ts</mask>
-      <mask>*Editor.ts</mask>
-    </recentFileMasks>
+    <option name="customScope" value="File '...\e2e\app.e2e-spec.ts [angular2Demmo]'" />
+    <option name="defaultScopeName" value="File '...\e2e\app.e2e-spec.ts [angular2Demmo]'" />
+    <option name="SEARCH_SCOPE" value="File '...\e2e\app.e2e-spec.ts [angular2Demmo]'" />
   </component>
 </application>
