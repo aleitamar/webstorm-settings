@@ -1,0 +1,16 @@
+<application>
+  <component name="BitbucketCloudRegistry">
+    <lookup />
+  </component>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance baseUri="http://vl-tlv-scm-03.isr.bmc.com:7990/" />
+      <instance baseUri="http://vl-tlv-scm-03:7990/" />
+    </instances>
+    <lookup>
+      <record scheme="http" hostname="vl-tlv-scm-03" port="7990" path="/" uuid="a4b052b8-33ce-3e04-bdb6-4028833f87f6" />
+      <record scheme="http" hostname="vl-tlv-scm-03.isr.bmc.com" port="7990" path="/" uuid="8f1b047e-51e0-3acd-9121-70d670dc642d" />
+    </lookup>
+  </component>
+  <component name="Instance" id="e82cd3ff-7857-4d18-a678-b48304589ce0" version="6.1" />
+</application>
